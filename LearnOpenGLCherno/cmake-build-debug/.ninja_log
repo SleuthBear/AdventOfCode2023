@@ -1,0 +1,9 @@
+# ninja log v6
+0	42	1728050599683535059	build.ninja	4b4ba4b75685ef27
+324	420	1728050577681009018	LearnOpenGLCherno	25875ec64cb6b3e7
+2	324	1728050577358221327	CMakeFiles/LearnOpenGLCherno.dir/src/Application.cpp.o	26b928ce18d8a00e
+3	464	1728050819316982864	CMakeFiles/LearnOpenGLCherno.dir/src/Application.cpp.o	26b928ce18d8a00e
+4	457	1728050861594750347	CMakeFiles/LearnOpenGLCherno.dir/src/Application.cpp.o	26b928ce18d8a00e
+2	249	1728050865322510501	CMakeFiles/LearnOpenGLCherno.dir/src/Application.cpp.o	26b928ce18d8a00e
+1	262	1728050873274782445	CMakeFiles/LearnOpenGLCherno.dir/src/Application.cpp.o	26b928ce18d8a00e
+262	361	1728050873535072859	LearnOpenGLCherno	25875ec64cb6b3e7
